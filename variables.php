@@ -2,7 +2,7 @@
 
 //Creacion de variables: 
 $variable1 = TRUE;
-$_variable2 = 0;
+$variable2 = 0;
 $variable3 = "hELLO wOLRD";
 
 var_dump($variable3);
